@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38b6db53.chunk.css",
+    "main.js": "/static/js/main.e08c4b3b.chunk.js",
+    "main.js.map": "/static/js/main.e08c4b3b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9cfd42d1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9cfd42d1.js.map",
+    "static/js/2.47728dc8.chunk.js": "/static/js/2.47728dc8.chunk.js",
+    "static/js/2.47728dc8.chunk.js.map": "/static/js/2.47728dc8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.38b6db53.chunk.css.map": "/static/css/main.38b6db53.chunk.css.map",
+    "static/js/2.47728dc8.chunk.js.LICENSE.txt": "/static/js/2.47728dc8.chunk.js.LICENSE.txt",
+    "static/media/alphonso-davies.d01e6b66.jpg": "/static/media/alphonso-davies.d01e6b66.jpg",
+    "static/media/ansu-fati.7f958cab.jpg": "/static/media/ansu-fati.7f958cab.jpg",
+    "static/media/christian-pulisic.0a8e54d9.jpg": "/static/media/christian-pulisic.0a8e54d9.jpg",
+    "static/media/erling-haaland.9c1aa1f0.jpg": "/static/media/erling-haaland.9c1aa1f0.jpg",
+    "static/media/jordan-sancho.d29b6ca4.jpg": "/static/media/jordan-sancho.d29b6ca4.jpg",
+    "static/media/kylian-mbappe.937f333d.jpg": "/static/media/kylian-mbappe.937f333d.jpg",
+    "static/media/question-mark-card.be8106da.png": "/static/media/question-mark-card.be8106da.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cfd42d1.js",
+    "static/js/2.47728dc8.chunk.js",
+    "static/css/main.38b6db53.chunk.css",
+    "static/js/main.e08c4b3b.chunk.js"
+  ]
+}
